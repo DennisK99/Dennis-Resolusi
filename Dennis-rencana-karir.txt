@@ -2,5 +2,13 @@ rencana karir
 -mau bekerja diluar negri
   -di eropa
   -swiszerland
+  -germany
+  -spain
+  -iceland
+  -austria
 -ingin bekerja pada perusahaan besar
+ -netflix
+ -google
+ -instagram
 -ingin menjadi web developer yang pro
+-ingin menjadi fullstack dev
