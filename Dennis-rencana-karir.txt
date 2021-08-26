@@ -2,5 +2,11 @@ rencana karir
 -mau bekerja diluar negri
   -di eropa
   -swiszerland
+  -di asia
+    -singapura
+    -jepang
+    -korea
 -ingin bekerja pada perusahaan besar
+  -twitter
+  -facebook
 -ingin menjadi web developer yang pro
