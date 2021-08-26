@@ -1,3 +1,5 @@
 Dennis resolusi
 -ingin menjadi seorang webdev 
 -konsisten untuk belajar coding khususnya pada front end dev
+-ingin membuat web portfolio
+-ingin mempelajari react js
