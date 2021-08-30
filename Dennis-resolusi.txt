@@ -3,3 +3,5 @@ Dennis resolusi
 -konsisten untuk belajar coding khususnya pada front end dev
 -ingin mempelajari react js
 -ingin mempelajari node js
+-membuat project dengan growtopia 
+-cari bgl bersama feni 
